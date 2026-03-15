@@ -3,7 +3,7 @@
 专为大学生打造的终极学业生产力工具
 
 WorkGallery 是一款现代化的 Android 应用，旨在通过物理隔离的方式，将你的学习资料（上课拍照、课件、笔记）与个人生活彻底分开。
-WorkGallery is a modern Android application designed to physically isolate your study materials (lecture screenshots, courseware, notes) from your personal life.
+WorkGallery is a modern Android application designed to physically isolate your study materials (lectureshots, courseware, notes) from your personal life.
 ---
 
 ## 📱 核心界面概览 (Overview)
