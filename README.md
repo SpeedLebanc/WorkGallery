@@ -51,3 +51,31 @@ WorkGallery is a modern Android application designed to physically isolate your 
 * **UI 框架**: Jetpack Compose (Modern Android UI)
 * **媒体支持**: Media3 ExoPlayer & MediaProjection API
 * **存储安全**: Scoped Storage & FileProvider
+
+---
+
+### 🛠 源码架构与依赖 (Architecture & Dependencies)
+
+下图为几个主要文件源代码的依赖关系。为了方便初学者，作者将从零开发过程中编写的所有核心逻辑源码提取并打包。
+
+> **提示**：本项目所有的核心逻辑代码文件均已同步存放于根目录下的 **[关键源文件.zip](./关键源文件.zip)** 中，欢迎下载学习。
+
+![Dependency Graph](screenshots/depend.png)
+
+---
+
+## 📥 下载与安装 (Download)
+
+你可以通过以下两种方式获取最新的安装包：
+
+### 方式一：直接下载 (Recommended)
+点击下方的绿色按钮，跳转至 GitHub Releases 页面下载最新的 APK 文件。
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android&logoColor=white)](https://github.com/SpeedLebanc/WorkGallery/releases/latest)
+
+### 方式二：手动寻找
+前往本仓库右侧的 [Releases](https://github.com/SpeedLebanc/WorkGallery/releases) 页面，下载 `app-debug.apk`。
+
+> **安装注意**：
+> 1. 下载后请允许“安装未知来源应用”。
+> 2. 悬浮球截屏功能需要开启“在其他应用上层显示”权限。
