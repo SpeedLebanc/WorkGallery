@@ -22,9 +22,13 @@ WorkGallery is a modern Android application designed to physically isolate your 
 * **物理隔离存储**：文件保存在应用私有目录，不混入系统相册。
 * **智能备注系统**：支持对每一张照片/视频进行文字备注，并支持全局搜索。
 
-| 备注与搜索 (Search) | 文件、缩放与悬浮窗 (Zoom & Float) | 移动与分享 (Share) |
-| :---: | :---: | :---: |
-| ![备注](screenshots/01_search.jpg) | ![缩放截图](screenshots/01_float_capture.jpg) | ![移动分享](screenshots/01_share.jpg) |
+| 备注与搜索 (Search) | 文件、缩放与悬浮窗 (Zoom & Float) |
+| :---: | :---: |
+| ![备注](screenshots/01_search.jpg) | ![缩放截图](screenshots/01_float_capture.jpg) |
+
+| 移动与分享 (Share) |
+| :---: |
+| ![移动分享](screenshots/01_share.jpg) |
 
 ---
 
